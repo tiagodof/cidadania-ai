@@ -1,6 +1,6 @@
 # 🏛️ Cidadania AI
 
-> **AI-powered civic rights assistant** — helping citizens understand their rights, navigate public services, and draft official documents using Artificial Intelligence.
+> **AI-powered civic rights assistant**  helping citizens understand their rights, navigate public services, and draft official documents using Artificial Intelligence.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
