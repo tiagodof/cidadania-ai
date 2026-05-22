@@ -13,7 +13,7 @@
 
 Cidadania AI is a free, open-source web application that uses Artificial Intelligence to empower citizens with knowledge about their legal rights and help them interact with public services more effectively.
 
-Inspired by tools like [FirstStep](https://firststep-nine.vercel.app), which democratises business planning through AI, Cidadania AI applies the same philosophy to civic life — giving ordinary people the structured knowledge and document templates they need to navigate bureaucracy with confidence.
+Inspired by tools like [FirstStep](https://firststep-nine.vercel.app), which democratises business planning through AI, Cidadania AI applies the same philosophy to civic life, giving ordinary people the structured knowledge and document templates they need to navigate bureaucracy with confidence.
 
 > **This tool does not replace a lawyer.** It helps you understand your situation, prepare the right questions, and walk into a legal consultation already informed.
 
@@ -116,7 +116,7 @@ Access to legal information is a fundamental right, yet it remains inaccessible 
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
